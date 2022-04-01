@@ -1,0 +1,110 @@
+/* IMPOSTAZIONI GENERALI */
+body{
+    font-family: 'Poppins', sans-serif;
+    background-image: url("../img/sfondo.png");
+}
+
+
+/* HEADER */
+header{
+    background-color: rgb(0, 81, 255);
+    width: 400px;
+    height: auto;
+    padding: 40px;
+    border: 1px solid black;
+    margin: 50px;
+    box-sizing: content-box;
+    border-radius: 10px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+}
+header p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+    color: white;
+    
+}
+header img{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 30px;
+}
+header nav{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+    color: white;
+}
+header title{
+    color: white;
+}
+
+/* MAIN */
+main{
+    background-color: whitesmoke;
+    width: 400px;
+    padding: 40px;
+    border: 1px solid black;
+    margin: 50px;
+    box-sizing: content-box;
+    border-radius: 20px;
+    box-shadow: 50px;
+
+
+}
+main h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+    text-align: center;
+}
+main p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+main iframe{
+    border-radius: 20px;
+    width: fit-content;
+}
+
+/* ELEMENTI NEL MAIN - ARTICLE */
+
+/* TABELLE */
+table caption{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    
+}
+table{
+    table-layout: fixed;
+    width: 300px;
+    background-color: white;
+    
+}
+table{
+    table-layout: fixed;
+ width: 300px;
+ border-collapse: separate;
+ border-spacing: 5px; 
+ padding: 10px;
+}
+main section{
+    background-color: grey;
+    width: 260px;
+    height: 100px;
+    padding: 40px;
+    border: 1px solid black;
+    margin: 30px;
+    box-sizing: content-box;
+    border-radius: 20px;
+    box-shadow: 50px;
+    
+
+}
+main h2{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+}
+
+/* FORM */
+
+/* ELEMENTI NELL' ASIDE */
+
+/* FOOTER */

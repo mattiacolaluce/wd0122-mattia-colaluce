@@ -1,0 +1,112 @@
+*{
+    max-width: 100vw;
+}
+
+body{
+    color: #393d41;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.2rem;
+    line-height: 1.65;
+}
+
+h1,h2,h3,h4,h5,h6{
+    color: #25a2c3;
+    line-height: 1.5;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+h1{
+    color: #25a2c3;
+    line-height: 1.5;
+    font-weight: 700;
+
+}
+
+
+
+header{
+    padding-bottom: 20px;
+    padding-top: 20px;
+    background-color: black;
+}
+
+header img{
+    width: 50%;
+    margin-left: 25%;
+    height: auto;
+    text-align: center;
+}
+
+#prima-section{
+    background-image: url(../images/banner.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.bottone{
+    background-color: #f04c2f;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    color: white;
+    text-decoration: none;
+    border-radius: 20px;
+    padding: 15px 15px;
+}
+
+#prima-section p{
+margin-bottom: 30px;
+}
+
+
+main h1{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+   
+}
+
+section{
+    padding: 50px 10px 50px 10px;
+    text-align: center;
+}
+
+footer{
+    background-color: #25a2c3;
+    text-align: center;
+    
+}
+footer >h2{
+    color:white;
+font-weight: 700;
+margin-bottom: 20px;
+text-align: center;
+}
+#seconda-section{
+    background-color: #f04c2f;
+    color: white;
+
+}
+
+#seconda-section>h5{
+    color: white;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    
+
+}
+
+#seconda-section>h2{
+color:white;
+font-weight: 700;
+margin-bottom: 20px;
+text-align: center;
+}
+
+div>img{
+    height: 300px;
+    width: 100%;
+}
+
+
+
+ 
